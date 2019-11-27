@@ -1,0 +1,25 @@
+{
+  "name": "project-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsellam/job-board-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsellam/job-board-project/issues"
+  },
+  "homepage": "https://github.com/alexsellam/job-board-project#readme",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.0"
+  }
+}
